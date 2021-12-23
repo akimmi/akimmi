@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akimmi
-- 👀 I’m interested in ... computational intelligence & hardware engineering  
+- 👀 I’m interested in ... finding my niche in electrical engineering & computer sciences
 - 🌱 I’m currently learning ... how to cook
 
 <!---
